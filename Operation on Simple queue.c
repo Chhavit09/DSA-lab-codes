@@ -29,7 +29,7 @@ int main()
                 front=SQDeq(queue,front);
                 if(front>rear)
                 {
-                    front=rear=-1; // Reset queue if empty
+                    front=rear=-1; 
                 }
                 break;
             case 3:
