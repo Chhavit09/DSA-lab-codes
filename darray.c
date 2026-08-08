@@ -1,4 +1,5 @@
 # include<stdio.h>
+# include<stdlib.h>
 int main()
 {
     int *p=NULL,n,i,s=0;
